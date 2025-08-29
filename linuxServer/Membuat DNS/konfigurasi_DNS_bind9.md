@@ -92,6 +92,7 @@ File-file yang akan dikonfigurasi
     ```
 13. Setelah semua terkonfigurasi kita bisa test domain tadi dengan ping dan nslookup
     lakukan tes :
+    - test.com
     - www.test.com
     - ftp.test.com
     - mail.test.com
@@ -102,6 +103,7 @@ File-file yang akan dikonfigurasi
     Hasil nslookup :  
     ![alt text](https://github.com/lutvan/linuxServer/blob/main/linuxServer/Membuat%20DNS/image/hasilnslookuppng.png "hasil nslookup")
    
+
 
 
 
