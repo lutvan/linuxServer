@@ -88,10 +88,11 @@ File-file yang akan dikonfigurasi
     ```bash
     systemctl restart bind9
     ```
-13. Setelah semua terkonfigurasi kita bisa test domain tadi dengan ping dan nslookup
-    Hasil ping :
+13. Setelah semua terkonfigurasi kita bisa test domain tadi dengan ping dan nslookup  
+    Hasil ping :  
     ![alt text](https://github.com/lutvan/linuxServer/blob/main/linuxServer/Membuat%20DNS/image/hasilping.png "hasil ping")
 
-    Hasil nslookup :
+    Hasil nslookup :  
     ![alt text](https://github.com/lutvan/linuxServer/blob/main/linuxServer/Membuat%20DNS/image/hasilnslookuppng.png "hasil nslookup")
    
+
